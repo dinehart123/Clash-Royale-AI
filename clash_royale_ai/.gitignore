@@ -1,0 +1,17 @@
+# Environment files
+.env
+.env.*
+
+# Python files
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.db
+
+# log files
+*.log/ backend
+
+# avoid bloating github with extra training data
+train/
+val/

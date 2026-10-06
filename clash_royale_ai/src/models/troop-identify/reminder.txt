@@ -1,0 +1,2 @@
+need to uninstall torch, torchvision, and torchaudio, then reinstall them with index-site of nvidia cuda version 130 in order to run this
+also need to configure nvidia driver, cuda kit, and cuda deep nueral network thing
