@@ -15,15 +15,6 @@ If you only have a windows pc at your house, consider downloading AnyDesk or oth
 
 ## Development Environment Setup Steps
 
-Clone our repository:
-```bash
-# over https
-https://github.com/DrewAMSD/clash_royale_ai.git
-
-# using ssh
-git@github.com:DrewAMSD/clash_royale_ai.git
-```
-
 If you are working entirely in a terminal:
 ```bash
 # move into the root of our project directory
